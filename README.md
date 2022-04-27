@@ -28,6 +28,10 @@
 
 
 <h1 align="center">My Github statistics 🚀</h1> 
+
+<p align="center">
+  <img width="200" src="https://github-readme-stats.vercel.app/api/?username=mahmoudazizorignal&count_private=true&theme=tokyonight&showicons=true" alt="My Github statistics  🚀">
+</p>
 <h1 align="center">
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mahmoudazizorignal&count_private=true&theme=tokyonight&showicons=true)]()
  </h1>
