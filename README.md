@@ -1,5 +1,14 @@
 <h1 align="center">Hi There 👋</h1>
+# Connect with me:
 
+[![website](./img/twitter-light.svg)](https://twitter.com/Mahmoud43276355)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Mahmoud43276355)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mahmoud_plus_plus/?hl=en)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/mahmoud_plus_plus/?hl=en)
 
 <!--
 **mahmoudazizorignal/mahmoudazizorignal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
