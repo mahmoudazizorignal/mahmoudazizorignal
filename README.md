@@ -27,11 +27,14 @@
 ---
 
 
-
-# My Github statistics 🚀
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mahmoudazizorignal&count_private=true&theme=tokyonight&showicons=true)]()
+<h1 align="center">My Github statistics 🚀</h1> 
+<h1 align="center">
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mahmoudazizorignal&count_private=true&theme=tokyonight&showicons=true)]()
+ </h1>
 <br />
+<h1 align="center">
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudazizorignal&langs_count=5&theme=tokyonight)]()
+</h1>
 
 
 [twitter]: https://twitter.com/Mahmoud43276355
