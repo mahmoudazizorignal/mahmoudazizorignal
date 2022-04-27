@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋</h1>
 <br />
-## Connect With Me:
+# Connect With Me:
 
 [![github](https://user-images.githubusercontent.com/89981157/165638303-61424af3-ee6e-49c8-8d23-e62c0fcdccdd.png)][1]    [![facebook](https://user-images.githubusercontent.com/89981157/165638431-eb8c5fd3-ff7b-4095-a8e0-acb87b734d96.png)][3]      [![linkedin](https://user-images.githubusercontent.com/89981157/165638661-43aec0cb-4520-4788-8f5d-94d234186ca8.png)][2]
 <br />
