@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[twitter]: https://twitter.com/Mahmoud43276355
+[instagram]: https://www.instagram.com/mahmoud_plus_plus/?hl=en
+[linkedin]: https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/
+[facebook]: https://www.facebook.com/mahmoudm.aziz.35
+[github]: https://github.com/mahmoudazizorignal
+[gamil]: mahmoudazizorignal@gmail.com
+[codeforces]: https://codeforces.com/profile/mahmoudazizorignal
