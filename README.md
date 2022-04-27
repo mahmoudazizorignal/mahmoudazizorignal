@@ -2,7 +2,7 @@
 
 
 
-## Connect with me:
+## Connect With Me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
