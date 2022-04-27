@@ -24,3 +24,7 @@
 [twitter]: https://twitter.com/Mahmoud43276355
 [instagram]: https://www.instagram.com/mahmoud_plus_plus/?hl=en
 [linkedin]: https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/
+
+[1]: https://github.com/mahmoudazizorignal
+[2]: https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/
+[3]: https://www.facebook.com/mahmoudm.aziz.35
