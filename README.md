@@ -1,3 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 
-[<img src="<img width="26" alt="109960336_274477960450922_1306319190754819753_n" src="https://user-images.githubusercontent.com/89981157/165626976-1f253ea0-3e8f-4c9d-aeed-f6c9cd2311ba.png">">](https://www.facebook.com/mahmoudm.aziz.35)
+[<img align="left" alt = "mahmoudazizorignal | Twitter" width = "22px" src = "https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1651093426~hmac=d2dc055e49beeb4bd310289315fbda02" />](https://www.facebook.com/mahmoudm.aziz.35)
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
