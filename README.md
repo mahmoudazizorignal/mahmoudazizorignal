@@ -4,7 +4,7 @@
 
 ## Connect With Me:
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][3][![linkedin](https://img.icons8.com/ios-glyphs/344/linkedin.png)][2]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][3][![linkedin](<img width="1920" alt="109960336_274477960450922_1306319190754819753_n" src="https://user-images.githubusercontent.com/89981157/165636103-fc3c9f22-b051-4b35-8d3c-a2f26a29cb62.png">)][2]
 <br />
 ## Languages and Tools:
 
