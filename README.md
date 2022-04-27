@@ -1,16 +1,20 @@
 <h1 align="center">Hi There 👋</h1>
 # Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Mahmoud43276355)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Mahmoud43276355)
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/)
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mahmoud_plus_plus/?hl=en)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mahmoud_plus_plus/?hl=en)
-
-<!--
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 **mahmoudazizorignal/mahmoudazizorignal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
