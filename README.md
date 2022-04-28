@@ -27,4 +27,4 @@
 [2]: https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/
 [3]: https://www.facebook.com/mahmoudm.aziz.35
 [4]: https://codeforces.com/profile/mahmoudazizorignal
-[5]: https://myaccount.google.com/?utm_source=OGB&tab=kk&utm_medium=app
+[5]: mahmoudazizorignal@gmail.com
