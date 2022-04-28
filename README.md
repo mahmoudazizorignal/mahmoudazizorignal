@@ -19,6 +19,9 @@
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudazizorignal&langs_count=5&theme=tokyonight" alt="My Github statistics  🚀">
 
+ # About Me
+ * Giza, Egypt
+ * Student at Faculty of Computers Science and Artificial Intelligence - Cairo University
 [twitter]: https://twitter.com/Mahmoud43276355
 [instagram]: https://www.instagram.com/mahmoud_plus_plus/?hl=en
 [linkedin]: https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/
