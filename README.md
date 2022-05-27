@@ -2,7 +2,7 @@
 
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%0e223b&size=35&height=60&lines=Welcome+to+Abdelrhman's+Github+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%0e223b&size=35&height=60&lines=Welcome+to+Mahmoud Aziz's+Github+!)](https://git.io/typing-svg)
   
 </h1>
 ## Connect With Me:
