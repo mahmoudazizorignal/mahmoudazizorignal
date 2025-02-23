@@ -36,7 +36,7 @@ Let's connect and share experiences in the tech world. I'm eager to connect with
 [linkedin]: https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/
 
 [1]: https://github.com/mahmoudazizorignal
-[2]: https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/
-[4]: https://codeforces.com/profile/mahmoudazizorignal
+[2]: https://www.linkedin.com/in/mahmoudmamdouhaziz
+[4]: https://codeforces.com/profile/MahmoudM13
 [5]: mailto:mahmoudazizorignal@gmail.com
 [8]: https://t.me/mahmoudazizorignal
