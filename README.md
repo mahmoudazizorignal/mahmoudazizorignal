@@ -15,7 +15,7 @@
  # About Me
 I'm a computer science and artificial intelligence student with a passion for problem-solving. I am a Codeforces Specialist and am currently diving into the world of machine learning.
 
-My GPA stands at 3.79, reflecting my dedication to learning and excellence. I believe in lifelong education and am excited to explore new challenges and opportunities.
+My GPA stands at 3.66, reflecting my dedication to learning and excellence. I believe in lifelong education and am excited to explore new challenges and opportunities.
 
 Let's connect and share experiences in the tech world. I'm eager to connect with fellow professionals, mentors, and like-minded individuals who share my enthusiasm for technology and problem-solving.
 
