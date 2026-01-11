@@ -13,11 +13,7 @@
 <br />
 
  # About Me
-I'm a computer science and artificial intelligence student with a passion for problem-solving. I am a Codeforces Specialist and am currently diving into the world of machine learning.
-
-My GPA stands at 3.66, reflecting my dedication to learning and excellence. I believe in lifelong education and am excited to explore new challenges and opportunities.
-
-Let's connect and share experiences in the tech world. I'm eager to connect with fellow professionals, mentors, and like-minded individuals who share my enthusiasm for technology and problem-solving.
+I am a Machine Learning Engineer and a recent graduate of Cairo University with a Bachelor’s degree in Computer Science and Artificial Intelligence and a 3.66 GPA. I enjoy using my knowledge to ship end-to-end AI systems that people can benefit from. I also have experience in competitive programming; I have participated in competitions like the ECPC and used sites like Codeforces and LeetCode to tackle data structures and algorithmic problems using C++.
 
 
 <h1 align="center">My Github statistics 🚀</h1> 
