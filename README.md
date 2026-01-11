@@ -14,7 +14,7 @@
 
  # About Me
 I am a Machine Learning Engineer and a recent graduate of Cairo University with a Bachelor’s degree in Computer Science and Artificial Intelligence and a 3.66 GPA. I enjoy using my knowledge to ship end-to-end AI systems that people can benefit from. I also have experience in competitive programming; I have participated in competitions like the ECPC and used sites like Codeforces and LeetCode to tackle data structures and algorithmic problems using C++.
-<br>
+<br><br>
 Access my Resume [here](https://drive.google.com/drive/u/0/folders/1b72X6ALTv4G754JyVJoppbxMy9yi6OhG)
 
 
