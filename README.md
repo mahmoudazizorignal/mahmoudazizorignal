@@ -1,27 +1,91 @@
-<h1 align="center">Hi There 👋</h1>
+<h2 align="center">Hi 👋! I am Mahmoud Mamdouh</h2>
 
-<h1 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%0e223b&size=35&height=60&lines=Welcome+to+Mahmoud+Aziz's+Github+!)](https://git.io/typing-svg)
-  
-</h1>
+###
 
-## Connect With Me:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahmoudazizorignal.mahmoudazizorignal&"  />
+</div>
 
+###
 
-[![github](https://user-images.githubusercontent.com/89981157/165638303-61424af3-ee6e-49c8-8d23-e62c0fcdccdd.png)][1]&emsp;[![linkedin](https://user-images.githubusercontent.com/89981157/165638661-43aec0cb-4520-4788-8f5d-94d234186ca8.png)][2]&emsp;[![codeforces](https://user-images.githubusercontent.com/89981157/165658750-702cbaa6-a313-4c19-9af9-02dc1bf1def7.png)][4]&emsp;[![gmail](https://user-images.githubusercontent.com/89981157/165659095-538113ce-c545-4dc0-b9b9-c00f9c1d78a9.png)][5]&emsp;[![telegram](https://user-images.githubusercontent.com/89981157/165664495-7e6743b6-bb68-4dfb-ba13-3976ad8823c4.png)][8]
-<br />
+<p align="left">I am a Machine Learning Engineer and a recent graduate of Cairo University with a Bachelor’s degree in Computer Science and Artificial Intelligence and a 3.66 GPA. I enjoy using my knowledge to ship end-to-end AI systems that people can benefit from. I also have experience in competitive programming; I have participated in competitions like the ECPC and used sites like Codeforces and LeetCode to tackle data structures and algorithmic problems using C++.</p>
 
- # About Me
-I am a Machine Learning Engineer and a recent graduate of Cairo University with a Bachelor’s degree in Computer Science and Artificial Intelligence and a 3.66 GPA. I enjoy using my knowledge to ship end-to-end AI systems that people can benefit from. I also have experience in competitive programming; I have participated in competitions like the ECPC and used sites like Codeforces and LeetCode to tackle data structures and algorithmic problems using C++.
-<br><br>
-Access my Resume [here](https://drive.google.com/drive/u/0/folders/1b72X6ALTv4G754JyVJoppbxMy9yi6OhG)
+###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=52&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-[linkedin]: https://www.linkedin.com/in/mahmoud-mamdouh-70809621b/
+###
 
-[1]: https://github.com/mahmoudazizorignal
-[2]: https://www.linkedin.com/in/mahmoudmamdouhaziz
-[4]: https://codeforces.com/profile/MahmoudM13
-[5]: mailto:mahmoudazizorignal@gmail.com
-[8]: https://t.me/mahmoudazizorignal
+<img align="right" height="150" src="https://i.imgflip.com/ahd3w1.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="30" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mahmoudmamdouhaziz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:mahmoudazizorignal@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.patreon.com/mahmoudm13" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="47" height="35" alt="patreon logo"  />
+  </a>
+  <a href="https://paypal.me/MahmoudAziz13" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="47" height="35" alt="paypal logo"  />
+  </a>
+  <a href="https://t.me/mahmoudmamdouh13" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudazizorignal/mahmoudazizorignal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoudazizorignal/mahmoudazizorignal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mahmoudazizorignal/mahmoudazizorignal/output/pacman-contribution-graph.svg">
+</picture>
+
+###
